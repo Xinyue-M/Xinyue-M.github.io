@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I'm now a third-year Ph.D student in Computer Science and Technology at [ShanghaiTech University](https://www.shanghaitech.edu.cn/), supervised by [Prof. Fang Bai](https://bailab.siais.shanghaitech.edu.cn/). My primary research interest lies in **Artificial Intelligence-Driven Drug Design(AIDD)**, with a particular focus on **algorithm development related to protein-nucleic acid interactions**.I received my bachelor's degree in Biomedical Engineering at [ShanghaiTech University](https://www.shanghaitech.edu.cn/). Throughout my academic journey, I have been fortunate to also collatorate with [Prof.Shenghua Gao](https://scholar.google.com.sg/citations?user=fe-1v0MAAAAJ&hl=en).
+Hi there! I'm now a third-year Ph.D student in Computer Science and Technology at [ShanghaiTech University](https://www.shanghaitech.edu.cn/), supervised by [Prof. Fang Bai](https://bailab.siais.shanghaitech.edu.cn/). My primary research interest lies in **Artificial Intelligence-Driven Drug Design(AIDD)**, with a particular focus on **algorithm development related to protein-nucleic acid interactions**.I received my bachelor's degree in Biomedical Engineering at ShanghaiTech University. Throughout my academic journey, I have been fortunate to also collatorate with [Prof.Shenghua Gao](https://scholar.google.com.sg/citations?user=fe-1v0MAAAAJ&hl=en).
 
 News
 ======
@@ -15,11 +15,12 @@ News
 
 Selected Publications
 ======
-1. sdf 
+1. sdf https://github.com/Xinyue-M/Xinyue-M.github.io/blob/master/_pages/about.md
 
 
 Talks and Posters
 ======
+
 Talks
 ------
 1. 
