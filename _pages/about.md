@@ -1,22 +1,23 @@
 ---
 permalink: /
-title: "Xinyue Ma (马欣悦)"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hi there! I'm now a third-year Ph.D student in Computer Science and Technology at [ShanghaiTech University](https://www.shanghaitech.edu.cn/), supervised by [Prof. Fang Bai](https://bailab.siais.shanghaitech.edu.cn/). My primary research interest lies in **Artificial Intelligence-Driven Drug Design(AIDD)**, with a particular focus on **algorithm development related to protein-nucleic acid interactions**.I received my bachelor's degree in Biomedical Engineering at ShanghaiTech University. Throughout my academic journey, I have been fortunate to also collatorate with [Prof.Shenghua Gao](https://scholar.google.com.sg/citations?user=fe-1v0MAAAAJ&hl=en).
+Hi there! I'm now a third-year Ph.D student in Computer Science and Technology at [ShanghaiTech University](https://www.shanghaitech.edu.cn/), supervised by [Prof. Fang Bai](https://bailab.siais.shanghaitech.edu.cn/). I received my bachelor's degree in Biomedical Engineering from ShanghaiTech University in 2022. My research interests focus on **Artificial Intelligence-Driven Drug Design(AIDD)**, including:
 
-News
+- AI methods for protein-nucleic acid interactions: the binding site prediction and generation of nucleic acids.
+- Protein representation learning, especially geometric representation based on protein structure.
+
+Publications
 ======
-1. sdf 
-
-Selected Publications
-======
-1. sdf https://github.com/Xinyue-M/Xinyue-M.github.io/blob/master/_pages/about.md
-
+- nest-nabind
+- nmda
+- ppi
+- protac
 
 Talks and Posters
 ======
@@ -29,16 +30,10 @@ Posters
 ------
 1. 
 
-Teaching Assistence
+Awards
 ======
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Experience
+======
+Teaching Assistant: Biomedical Statistics (Fall 2022, Spring 2023, Fall 2024)
