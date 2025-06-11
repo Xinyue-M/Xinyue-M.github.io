@@ -38,14 +38,14 @@ _npj Drug Discovery, 2025(Accepted)_
 \
 Lin Wang, Fenglei Li, **Xinyue Ma**, Yong Cang, Fang Bai \
 _Journal of Chemical Information and Modeling, 2022_ \
-<img src="../images/ppi_abstract.png" width="50%" />
+<div align="center"><img src="../images/ppi_abstract.png" width="50%" /></div>
 <br>
 
 **_DeepPROTACs is a deep learning-based targeted degradation predictor for PROTACs._**  [Paper](https://www.nature.com/articles/s41467-022-34807-3)
 \
 Fenglei Li, Qiaoyu Hu, Xianglei Zhang, Renhong Sun, Zhuanghua Liu, Sanan Wu, Siyuan Tian, **Xinyue Ma**, et al. \
 _Nature Communications, 2022_ \
-<img src="../images/protac.png" width="50%" />
+<div align="center"><img src="../images/protac.png" width="50%" /></div>
 <br>
 \* indicates equal contributions.
 
