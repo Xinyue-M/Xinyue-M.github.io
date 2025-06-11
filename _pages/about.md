@@ -24,7 +24,7 @@ _Acta Pharmacologica Sinica, 2025 (Accepted)_
 
 **_NesT-NABind: a Nested Transformer for Nucleic Acid-Binding Site Prediction on Protein Surface._**  
 **Xinyue Ma**, Fenglei Li, Qianyu Chen, Shenghua Gao, Fang Bai \
-_Journal of Chemical Information and Modeling, 2025_ [Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.4c01765) \
+_Journal of Chemical Information and Modeling, 2025_ [Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.4c01765) 
 <div align="center"><img src="../images/nest-abstract.png" width="50%" /></div>
 <br>
 
@@ -34,7 +34,7 @@ Shihang Wang, Ran Zhang, Xiangcheng Li, Fengyu Cai, **Xinyue Ma** , et al. \
 _npj Drug Discovery, 2025(Accepted)_ 
 
 
-**_PPI-Miner: A Structure and Sequence Motif Co-Driven Protein-Protein Interaction Mining and Modeling Computational Method._** 
+**_PPI-Miner: A Structure and Sequence Motif Co-Driven Protein-Protein Interaction Mining and Modeling Computational Method._** \
 Lin Wang, Fenglei Li, **Xinyue Ma**, Yong Cang, Fang Bai \
 _Journal of Chemical Information and Modeling, 2022_ [Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.2c01033) 
 <div align="center"><img src="../images/ppi_abstract.png" width="50%" /></div>
@@ -50,15 +50,18 @@ _Nature Communications, 2022_  [Paper](https://www.nature.com/articles/s41467-02
 
 Talks and Posters
 ======
-- Hainan
-- shanghaitech fl
-- acs
+- Speaker of Virtual Graduate Students Symposium in Asia-Pacific Region on Computational Chemistry, ACS2025.
+- Speaker of National Conference on Bioinformatics and Systems Biology, 2025.
+- Outstanding Poster of FoLST2025, ShanghaiTech. \
+<div align="center"><img src="../images/folst2025.png" width="50%" /></div>
+
 
 Awards
 ======
-- sf
-- nmda
-- poster
+- Second Prize of the 2023 Shanghai International Computational Biology Innovation Competition.
+  <div align="center"><img src="../images/nmda_award.png" width="50%" /></div>
+- Outstanding Student of ShanghaiTech University, 2022-2023 and 2023-2024
+
 
 Experience
 ======
