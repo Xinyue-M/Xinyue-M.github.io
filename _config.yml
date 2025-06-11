@@ -23,7 +23,7 @@ repository               : "https://github.com/Xinyue-M"
 author:
   # Biographic information
   
-  avatar           : images/self.png
+  avatar           : "images/self.png"
   name             : "Xinyue Ma"
   bio              : "Ph.D. Student of AIDD, ShanghaiTech University"
   location         : "Pudong, Shanghai, China"
