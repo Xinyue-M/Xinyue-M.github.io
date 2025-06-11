@@ -17,8 +17,8 @@ My research interests focus on <b>Artificial Intelligence-Driven Drug Design(AID
 
 Publications
 ======
-**_NesT-NABind: a Nested Transformer for Nucleic Acid-Binding Site Prediction on Protein Surface_**
-**Xinyue Ma**, Fenglei Li, Qianyu Chen, Shenghua Gao*, Fang Bai*
+**_NesT-NABind: a Nested Transformer for Nucleic Acid-Binding Site Prediction on Protein Surface_** \
+**Xinyue Ma**, Fenglei Li, Qianyu Chen, Shenghua Gao*, Fang Bai* \
 [Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.4c01765) 
 [!image]
 
