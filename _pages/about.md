@@ -23,13 +23,13 @@ Publications
 **_Discovery of Selective GluN1/GluN3A NMDA Receptor Inhibitors Using Integrated AI and Physics-Based Approaches._**\
 Shiwei Li\*, Yue Zeng\*, Sanan Wu\*, **Xinyue Ma\***, Chao Xu\*, Zongquan L\*, Sui Fang, Xueqin Chen, Zhaobing Gao, Fang Bai \
 _Acta Pharmacologica Sinica, 2025 (Accepted)_ \
-[!image](images/nmda_abstract.png) 
+![image](images/nmda_abstract.png) 
 
 
 **_NesT-NABind: a Nested Transformer for Nucleic Acid-Binding Site Prediction on Protein Surface._** \
 **Xinyue Ma**, Fenglei Li, Qianyu Chen, Shenghua Gao, Fang Bai \
 _Journal of Chemical Information and Modeling, 2025_ \
-[!image](images/nest-abstract.png) \
+![image](images/nest-abstract.png) \
 [Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.4c01765) 
 
 
