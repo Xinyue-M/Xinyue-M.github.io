@@ -8,17 +8,13 @@ redirect_from:
 ---
 
 <p align="justify">
-Hi! My name is Xinyue Ma (马欣悦). I am currently a third-year Ph.D student in Computer Science and Technology at <a href="https://www.shanghaitech.edu.cn/">ShanghaiTech University</a>, supervised by <a href="https://bailab.siais.shanghaitech.edu.cn/">Prof. Fang Bai</a>. I received my bachelor's degree in Biomedical Engineering from ShanghaiTech University in 2022.
-</p>
-
+Hi! My name is Xinyue Ma (马欣悦). I am currently a third-year Ph.D student in Computer Science and Technology at <a href="https://www.shanghaitech.edu.cn/">ShanghaiTech University</a>, supervised by <a href="https://bailab.siais.shanghaitech.edu.cn/">Prof. Fang Bai</a>. I received my bachelor's degree in Biomedical Engineering from ShanghaiTech University in 2022.</p>
 My research interests focus on <b>Artificial Intelligence-Driven Drug Design(AIDD)</b>, including:
 - <b>AI methods for protein-nucleic acid interactions</b>: the binding site prediction and generation of nucleic acids.
 - <b>Protein representation learning</b>, especially geometric representation based on protein structure.
 
-
 Publications
 ======
-\* indicates equal contributions.
 
 **_Discovery of Selective GluN1/GluN3A NMDA Receptor Inhibitors Using Integrated AI and Physics-Based Approaches._** \
 Shiwei Li\*, Yue Zeng\*, Sanan Wu\*, **Xinyue Ma\***, Chao Xu\*, Zongquan L\*, Sui Fang, Xueqin Chen, Zhaobing Gao, Fang Bai \
@@ -42,15 +38,16 @@ _npj Drug Discovery, 2025(Accepted)_
 \
 Lin Wang, Fenglei Li, **Xinyue Ma**, Yong Cang, Fang Bai \
 _Journal of Chemical Information and Modeling, 2022_ \
-<img src="../images/ppi_abstract.png" width="40%" />
+<img src="../images/ppi_abstract.png" width="50%" />
 <br>
 
 **_DeepPROTACs is a deep learning-based targeted degradation predictor for PROTACs._**  [Paper](https://www.nature.com/articles/s41467-022-34807-3)
 \
 Fenglei Li, Qiaoyu Hu, Xianglei Zhang, Renhong Sun, Zhuanghua Liu, Sanan Wu, Siyuan Tian, **Xinyue Ma**, et al. \
 _Nature Communications, 2022_ \
-<img src="../images/protac.png" width="40%" />
+<img src="../images/protac.png" width="50%" />
 <br>
+\* indicates equal contributions.
 
 
 Talks and Posters
