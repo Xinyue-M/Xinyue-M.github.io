@@ -18,24 +18,37 @@ My research interests focus on <b>Artificial Intelligence-Driven Drug Design(AID
 
 Publications
 ======
-
 * indicates equal contributions.
 
-**_Discovery of Selective GluN1/GluN3A NMDA Receptor Inhibitors Using Integrated AI and Physics-Based Approaches_**\
-Shiwei Li\*, Yue Zeng\*, Sanan Wu\*, Xinyue Ma\*, Chao Xu\*, Zongquan L\*, Sui Fang, Xueqin Chen, Zhaobing Gao, Fang Bai \
+**_Discovery of Selective GluN1/GluN3A NMDA Receptor Inhibitors Using Integrated AI and Physics-Based Approaches._**\
+Shiwei Li\*, Yue Zeng\*, Sanan Wu\*, **Xinyue Ma\***, Chao Xu\*, Zongquan L\*, Sui Fang, Xueqin Chen, Zhaobing Gao, Fang Bai \
+_Acta Pharmacologica Sinica, 2025 (Accepted)_ \
 [!image]()
-_Acta Pharmacologica Sinica, 2025_
 
 
-**_NesT-NABind: a Nested Transformer for Nucleic Acid-Binding Site Prediction on Protein Surface_** \
+**_NesT-NABind: a Nested Transformer for Nucleic Acid-Binding Site Prediction on Protein Surface._** \
 **Xinyue Ma**, Fenglei Li, Qianyu Chen, Shenghua Gao, Fang Bai \
-[!image]
+_Journal of Chemical Information and Modeling, 2025_ \
+[!image] \
 [Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.4c01765) 
-_Journal of Chemical Information and Modeling, 2025_
 
 
-- ppi
-- protac
+**_Recent Advances in Molecular Representation Methods and Their Applications in Scaffold Hopping._** \
+Shihang Wang, Ran Zhang, Xiangcheng Li, Fengyu Cai, **Xinyue Ma** , et al. \
+_npj Drug Discovery, 2025(Accepted)_ \
+
+
+**_PPI-Miner: A Structure and Sequence Motif Co-Driven Protein-Protein Interaction Mining and Modeling Computational Method._** \
+Lin Wang, Fenglei Li, **Xinyue Ma**, Yong Cang, Fang Bai \
+_Journal of Chemical Information and Modeling, 2022_ \
+[Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.2c01033) 
+
+
+**_DeepPROTACs is a deep learning-based targeted degradation predictor for PROTACs._** \
+Fenglei Li, Qiaoyu Hu, Xianglei Zhang, Renhong Sun, Zhuanghua Liu, Sanan Wu, Siyuan Tian, **Xinyue Ma**, et al. \
+_Nature Communications, 2022_ \
+[Paper](https://www.nature.com/articles/s41467-022-34807-3)
+
 
 Talks and Posters
 ======
