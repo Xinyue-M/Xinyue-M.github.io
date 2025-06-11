@@ -29,7 +29,8 @@ _Acta Pharmacologica Sinica, 2025 (Accepted)_ \
 **_NesT-NABind: a Nested Transformer for Nucleic Acid-Binding Site Prediction on Protein Surface._** [Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.4c01765) \
 **Xinyue Ma**, Fenglei Li, Qianyu Chen, Shenghua Gao, Fang Bai \
 _Journal of Chemical Information and Modeling, 2025_ \
-![image](../images/nest-abstract.png) \
+![image](../images/nest-abstract.png) 
+<img src="../images/nest-abstract.png" width="50%" />
 
 
 **_Recent Advances in Molecular Representation Methods and Their Applications in Scaffold Hopping._** \
