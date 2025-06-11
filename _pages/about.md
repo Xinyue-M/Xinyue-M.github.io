@@ -52,15 +52,14 @@ Talks and Posters
 ======
 - Speaker of Virtual Graduate Students Symposium in Asia-Pacific Region on Computational Chemistry, ACS2025.
 - Speaker of National Conference on Bioinformatics and Systems Biology, 2025.
-- Outstanding Poster of FoLST2025, ShanghaiTech. \
-<div align="center"><img src="../images/folst2025.png" width="50%" /></div>
+- Outstanding Poster of FoLST2025, ShanghaiTech. [See the poster](../images/folst2025.png)
 
 
 Awards
 ======
+- Outstanding Student of ShanghaiTech University, 2022-2023 and 2023-2024.
 - Second Prize of the 2023 Shanghai International Computational Biology Innovation Competition.
   <div align="center"><img src="../images/nmda_award.png" width="50%" /></div>
-- Outstanding Student of ShanghaiTech University, 2022-2023 and 2023-2024
 
 
 Experience
